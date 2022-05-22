@@ -1,0 +1,15 @@
+/home/tmserbak/Code/C_Sharp/learnC_sharp/bin/Debug/net6.0/learnC_sharp
+/home/tmserbak/Code/C_Sharp/learnC_sharp/bin/Debug/net6.0/learnC_sharp.deps.json
+/home/tmserbak/Code/C_Sharp/learnC_sharp/bin/Debug/net6.0/learnC_sharp.runtimeconfig.json
+/home/tmserbak/Code/C_Sharp/learnC_sharp/bin/Debug/net6.0/learnC_sharp.dll
+/home/tmserbak/Code/C_Sharp/learnC_sharp/bin/Debug/net6.0/ref/learnC_sharp.dll
+/home/tmserbak/Code/C_Sharp/learnC_sharp/bin/Debug/net6.0/learnC_sharp.pdb
+/home/tmserbak/Code/C_Sharp/learnC_sharp/obj/Debug/net6.0/learnC_sharp.csproj.AssemblyReference.cache
+/home/tmserbak/Code/C_Sharp/learnC_sharp/obj/Debug/net6.0/learnC_sharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/tmserbak/Code/C_Sharp/learnC_sharp/obj/Debug/net6.0/learnC_sharp.AssemblyInfoInputs.cache
+/home/tmserbak/Code/C_Sharp/learnC_sharp/obj/Debug/net6.0/learnC_sharp.AssemblyInfo.cs
+/home/tmserbak/Code/C_Sharp/learnC_sharp/obj/Debug/net6.0/learnC_sharp.csproj.CoreCompileInputs.cache
+/home/tmserbak/Code/C_Sharp/learnC_sharp/obj/Debug/net6.0/learnC_sharp.dll
+/home/tmserbak/Code/C_Sharp/learnC_sharp/obj/Debug/net6.0/ref/learnC_sharp.dll
+/home/tmserbak/Code/C_Sharp/learnC_sharp/obj/Debug/net6.0/learnC_sharp.pdb
+/home/tmserbak/Code/C_Sharp/learnC_sharp/obj/Debug/net6.0/learnC_sharp.genruntimeconfig.cache
